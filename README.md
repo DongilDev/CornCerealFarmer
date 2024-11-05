@@ -3,7 +3,6 @@ GA5th 2Q Project (WinAPI)
 
 
 !!!! EngineDemo 시작 프로젝트로 설정<br/>
-!!!! x86으로 실행
 
 
 -플밍<br/>
