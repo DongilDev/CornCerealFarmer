@@ -1,7 +1,6 @@
 # Visual Studio specific
-.vs/
-*.suo
 *.user
+*.db
 *.vcxproj.user
 *.vcxproj.filters
 *.pidb
