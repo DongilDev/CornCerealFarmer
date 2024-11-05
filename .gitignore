@@ -10,8 +10,6 @@
 *.csproj.pidb
 
 # Build directories
-
-Release/
 x64/
 Library/
 Temp/
