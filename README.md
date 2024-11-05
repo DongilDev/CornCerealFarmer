@@ -2,9 +2,6 @@
 GA5th 2Q Project (WinAPI)
 
 
-!!!! EngineDemo 시작 프로젝트로 설정<br/>
-
-
 -플밍<br/>
 정창도<br/>
 박연하<br/>
