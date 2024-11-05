@@ -1,5 +1,5 @@
 # CornCerealFarmer
-GA5th 2Q Project (WinAPI)
+GA5th 2Q Project (DirectX11 2D)
 
 
 -플밍<br/>
